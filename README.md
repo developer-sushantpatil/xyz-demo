@@ -1,2 +1,4 @@
 # xyz-demo
-This is my first Git Repository.Author-sushant patil
+This is my first Git Repository.
+<br>
+Author-sushant patil
